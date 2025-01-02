@@ -7,10 +7,10 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import os
 
 # Replace with your bot's API token
-API_TOKEN = '7884394642:AAGhS5MSoR3DoWed14Ae4AmJlaqcmfoJIZc'
+API_TOKEN = 'YOUR_BOT_FATHER_TOKEN'
 
 # YouTube Data API key
-YOUTUBE_API_KEY = 'AIzaSyDN6z1KtI9TYbHVzUKGOI7Dbnoui_wGGtc'
+YOUTUBE_API_KEY = 'YOUTUBE_API_KEY'
 
 # Configure logging
 logging.basicConfig(
